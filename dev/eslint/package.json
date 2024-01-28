@@ -1,0 +1,20 @@
+{
+  "name": "@nongdan-dev/dev-eslint",
+  "version": "0.0.0-locked",
+  "private": true,
+  "dependencies": {
+    "##": "../../",
+    "@typescript-eslint/eslint-plugin": "6.19.0",
+    "@typescript-eslint/parser": "6.19.0",
+    "eslint": "8.56.0",
+    "eslint-plugin-css-modules": "2.12.0",
+    "eslint-plugin-filename-export": "1.0.4",
+    "eslint-plugin-import": "2.29.1",
+    "eslint-plugin-react": "7.33.2",
+    "eslint-plugin-simple-import-sort": "10.0.0",
+    "typescript": "5.3.3"
+  },
+  "devDependencies": {
+    "@types/eslint": "8.56.2"
+  }
+}

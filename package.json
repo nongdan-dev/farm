@@ -1,0 +1,26 @@
+{
+  "name": "@nongdan-dev/ts",
+  "version": "0.0.0-locked",
+  "private": true,
+  "dependencies": {
+    "##": "./",
+    "@nongdan-dev/eslint-plugin": "./dev/eslint",
+    "eslint": "8.56.0",
+    "prettier": "3.2.4",
+    "stylelint": "16.1.0",
+    "type-coverage": "2.27.1",
+    "typescript": "5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.5"
+  },
+  "typeCoverage": {
+    "atLeast": 100,
+    "ignoreCatch": true
+  },
+  "pnpm": {
+    "patchedDependencies": {
+      "change-case@5.4.2": "patches/change-case@5.4.2.patch"
+    }
+  }
+}

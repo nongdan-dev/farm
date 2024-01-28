@@ -1,0 +1,10 @@
+{
+  "name": "@nongdan-dev/nodejs-alias",
+  "version": "0.0.0-locked",
+  "private": true,
+  "dependencies": {
+    "##": "../../",
+    "babel-plugin-module-resolver": "5.0.0",
+    "json5": "2.2.3"
+  }
+}

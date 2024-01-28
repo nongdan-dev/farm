@@ -1,0 +1,19 @@
+{
+  "name": "@nongdan-dev/nodejs-graphql",
+  "version": "0.0.0-locked",
+  "private": true,
+  "dependencies": {
+    "##": "../../",
+    "@graphql-tools/merge": "9.0.1",
+    "@graphql-tools/schema": "10.0.2",
+    "@types/lodash": "4.14.202",
+    "graphql": "16.8.1",
+    "graphql-scalars": "1.22.4",
+    "join-monster": "3.3.2",
+    "join-monster-graphql-tools-adapter": "0.1.1",
+    "lodash": "4.17.21"
+  },
+  "devDependencies": {
+    "@types/graphql-iso-date": "3.4.3"
+  }
+}

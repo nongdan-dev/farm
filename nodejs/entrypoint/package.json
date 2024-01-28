@@ -1,0 +1,17 @@
+{
+  "name": "@nongdan-dev/nodejs-entrypoint",
+  "version": "0.0.0-locked",
+  "private": true,
+  "dependencies": {
+    "##": "../../",
+    "@babel/core": "7.23.7",
+    "@babel/plugin-proposal-optional-chaining": "7.21.0",
+    "@babel/plugin-syntax-class-properties": "7.12.13",
+    "@babel/plugin-transform-modules-commonjs": "7.23.3",
+    "@babel/plugin-transform-typescript": "7.23.6",
+    "@babel/register": "7.23.7",
+    "dotenv": "16.3.1",
+    "tsconfig-paths": "4.2.0",
+    "typescript": "5.3.3"
+  }
+}

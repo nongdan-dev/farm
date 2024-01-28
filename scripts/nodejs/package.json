@@ -1,0 +1,13 @@
+{
+  "name": "@nongdan-dev/scripts-nodejs",
+  "version": "0.0.0-locked",
+  "private": true,
+  "dependencies": {
+    "##": "../../",
+    "change-case": "5.4.2",
+    "json-stable-stringify": "1.1.1"
+  },
+  "devDependencies": {
+    "@types/json-stable-stringify": "1.0.36"
+  }
+}

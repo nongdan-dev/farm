@@ -1,0 +1,12 @@
+{
+  "name": "@nongdan-dev/shared-qs",
+  "version": "0.0.0-locked",
+  "private": true,
+  "dependencies": {
+    "##": "../../",
+    "qs": "6.11.2"
+  },
+  "devDependencies": {
+    "@types/qs": "6.9.11"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "@nongdan-dev/nodejs-must-check-path",
+  "version": "0.0.0-locked",
+  "private": true,
+  "dependencies": {
+    "##": "../../"
+  }
+}

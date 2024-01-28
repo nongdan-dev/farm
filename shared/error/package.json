@@ -1,0 +1,12 @@
+{
+  "name": "@nongdan-dev/shared-error",
+  "version": "0.0.0-locked",
+  "private": true,
+  "dependencies": {
+    "##": "../../",
+    "circular-json": "0.5.9"
+  },
+  "devDependencies": {
+    "@types/circular-json": "0.4.0"
+  }
+}

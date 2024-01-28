@@ -1,0 +1,12 @@
+diff --git a/package.json b/package.json
+index 6b8dfffcf0896358b25cb30f931b8fd7ca2d6524..9e74d112ec69ce70e1471ef6f323756be2863911 100644
+--- a/package.json
++++ b/package.json
+@@ -27,7 +27,6 @@
+     "email": "hello@blakeembrey.com",
+     "url": "http://blakeembrey.me"
+   },
+-  "type": "module",
+   "exports": {
+     ".": "./dist/index.js",
+     "./keys": "./dist/keys.js"

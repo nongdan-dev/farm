@@ -1,0 +1,9 @@
+{
+  "name": "@nongdan-dev/reactjs-router",
+  "version": "0.0.0-locked",
+  "private": true,
+  "dependencies": {
+    "##": "../../",
+    "react-router": "6.21.3"
+  }
+}

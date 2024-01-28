@@ -1,0 +1,9 @@
+{
+  "name": "@nongdan-dev/shared-ts",
+  "version": "0.0.0-locked",
+  "private": true,
+  "dependencies": {
+    "##": "../../",
+    "utility-types": "3.11.0"
+  }
+}

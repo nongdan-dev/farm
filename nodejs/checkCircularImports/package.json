@@ -1,0 +1,8 @@
+{
+  "name": "@nongdan-dev/nodejs-check-circular-imports",
+  "version": "0.0.0-locked",
+  "private": true,
+  "dependencies": {
+    "##": "../../"
+  }
+}

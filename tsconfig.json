@@ -1,0 +1,69 @@
+{
+  "compilerOptions": {
+    /* Basic Options */
+    "module": "esnext",
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": false,
+    "checkJs": false,
+    "resolveJsonModule": true,
+    "jsx": "react-jsx",
+    "declaration": false,
+    "declarationMap": false,
+    "sourceMap": false,
+    // "outFile": "./",
+    // "outDir": "lib",
+    // "rootDir": "./",
+    // "composite": true,
+    // "removeComments": true,
+    "noEmit": true,
+    // "importHelpers": true,
+    // "downlevelIteration": true,
+    "isolatedModules": true,
+    "skipLibCheck": true,
+
+    /* Strict Type-Checking Options */
+    "strict": true,
+    "noImplicitAny": false, // should be done in type-coverage
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictPropertyInitialization": false,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "forceConsistentCasingInFileNames": true,
+
+    /* Additional Checks */
+    // "noUnusedLocals": true,
+    // "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+
+    /* Module Resolution Options */
+    "moduleResolution": "node",
+    // "baseUrl": "./",
+    "paths": {
+      // custom module starts with #
+      // https://nodejs.org/api/packages.html#subpath-imports
+    },
+    // "rootDirs": [],
+    // "typeRoots": [],
+    // "types": [],
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    // "preserveSymlinks": true,
+
+    /* Source Map Options */
+    // "sourceRoot": "./",
+    // "mapRoot": "./",
+    // "inlineSourceMap": true,
+    // "inlineSources": true,
+
+    /* Advanced Options */
+    // "declarationDir": "lib",
+
+    /* Experimental Options */
+    "experimentalDecorators": false,
+    "emitDecoratorMetadata": false,
+  },
+  "include": ["./**/*"],
+}

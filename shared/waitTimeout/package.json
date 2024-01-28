@@ -1,0 +1,8 @@
+{
+  "name": "@nongdan-dev/shared-wait-timeout",
+  "version": "0.0.0-locked",
+  "private": true,
+  "dependencies": {
+    "##": "../../"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@nongdan-dev/dev-stylelint",
+  "version": "0.0.0-locked",
+  "private": true,
+  "dependencies": {
+    "##": "../../",
+    "postcss": "8.4.33",
+    "postcss-scss": "4.0.9",
+    "stylelint": "16.1.0",
+    "stylelint-config-hudochenkov": "10.0.0",
+    "stylelint-order": "6.0.4"
+  }
+}

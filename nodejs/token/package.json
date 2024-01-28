@@ -1,0 +1,14 @@
+{
+  "name": "@nongdan-dev/nodejs-token",
+  "version": "0.0.0-locked",
+  "private": true,
+  "dependencies": {
+    "##": "../../",
+    "base-x": "4.0.0",
+    "n-digit-token": "2.2.2",
+    "qs": "6.11.2"
+  },
+  "devDependencies": {
+    "@types/qs": "6.9.11"
+  }
+}

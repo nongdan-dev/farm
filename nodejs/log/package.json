@@ -1,0 +1,15 @@
+{
+  "name": "@nongdan-dev/nodejs-log",
+  "version": "0.0.0-locked",
+  "private": true,
+  "dependencies": {
+    "##": "../../",
+    "circular-json": "0.5.9",
+    "colors": "1.4.0",
+    "stack-trace": "0.0.10"
+  },
+  "devDependencies": {
+    "@types/circular-json": "0.4.0",
+    "@types/stack-trace": "0.0.33"
+  }
+}
